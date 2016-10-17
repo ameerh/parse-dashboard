@@ -1,5 +1,5 @@
 # parse-dashboard
-Express parse app 
+Express parse dashboard
 
 # Installation And Usage
 
